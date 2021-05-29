@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nadineas/game-website/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/nadineas/game-website/static/js/main.a2da98aa.chunk.js",
+    "main.js.map": "/nadineas/game-website/static/js/main.a2da98aa.chunk.js.map",
+    "runtime-main.js": "/nadineas/game-website/static/js/runtime-main.c3551374.js",
+    "runtime-main.js.map": "/nadineas/game-website/static/js/runtime-main.c3551374.js.map",
+    "static/js/2.9cf3a07b.chunk.js": "/nadineas/game-website/static/js/2.9cf3a07b.chunk.js",
+    "static/js/2.9cf3a07b.chunk.js.map": "/nadineas/game-website/static/js/2.9cf3a07b.chunk.js.map",
+    "static/js/3.961f797c.chunk.js": "/nadineas/game-website/static/js/3.961f797c.chunk.js",
+    "static/js/3.961f797c.chunk.js.map": "/nadineas/game-website/static/js/3.961f797c.chunk.js.map",
+    "index.html": "/nadineas/game-website/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/nadineas/game-website/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9cf3a07b.chunk.js.LICENSE.txt": "/nadineas/game-website/static/js/2.9cf3a07b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3551374.js",
+    "static/js/2.9cf3a07b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a2da98aa.chunk.js"
+  ]
+}
